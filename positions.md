@@ -8,16 +8,8 @@ group: navigation
 
 ## Open Positions
 
-### Postdoctoral positions in drug discovery and genome data science
-Two postdoctoral positions are immediately available in the Girke lab at
-University of California, Riverside to work on the integrative analysis of
-large-scale small molecule bioactivity and a wide range of genome-wide
-profiling data. 
+### Doctoral positions in engineering education and data science
 
-The goal of this project is to identify systems-level insights
-how drug-like small molecules interact with biological systems with the
-long-term objective of developing novel pharmacological treatments for diseases
-and promoting healthy aging.
 
 MINIMUM REQUIREMENTS: (I) Ph.D. and/or postdoctoral training in an area related
 to computational biology, biostatistics, genome biology and drug discovery.
