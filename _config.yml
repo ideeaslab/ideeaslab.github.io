@@ -6,8 +6,8 @@ permalink:           pretty
 
 # Setup
 title:               IDEEAS Lab
-tagline:             'IDEEAS tag'
-description:         'IDEEAS desc'
+tagline:             'Improving Decisions in Engineering Education Agents and Systems'
+description:         'Home of the IDEEAS Lab'
 url:                 http://ideeaslab.github.io
 baseurl:             ''
 # The following line is required for Jekyll >=3 support
@@ -18,7 +18,7 @@ paginate:            5
 author:
   name:              IDEEAS Lab Name
   url:               http://ideeaslab.com
-  email:             thomas.girke@ucr.edu
+  email:             akatz4@vt.edu
 
 # Custom vars
 version:             Lanyon
