@@ -6,17 +6,13 @@ group: navigation
 ---
 <br/>
 
-**Thomas Girke**, Ph.D. <br/>
-Professor of Bioinformatics <br/>
-Director of HPC Center ([HPCC](http://hpcc.ucr.edu/))<br/>
-Institute for Integrative Genome Biology ([IIGB](http://genomics.ucr.edu/){:target="_blank"}) <br/>
-Department of Botany and Plant Sciences ([BPSC](http://plantbiology.ucr.edu/){:target="_blank"}) <br/>
-1207F Genomics Building <br/>
-University of California, Riverside ([UCR](http://www.ucr.edu/){:target="_blank"}) <br/>
-CA 92521 <br/>
-[Map](https://www.google.com/maps/place/33%C2%B058'17.9%22N+117%C2%B019'35.1%22W/@33.972364,-117.325996,17z/data=!4m2!3m1!1s0x0:0x0?hl=en-US){:target="_blank"}
+**Andrew Katz**, Ph.D. <br/>
+Assistant Professor of Engineering Education <br/>
+Director of IDEEAS Lab <br/>
+Department of Engineering Education ([BPSC](http://plantbiology.ucr.edu/){:target="_blank"}) <br/>
+635 Prices Fork Rd <br/>
+Virginia Tech, Blacksburg ([UCR](http://www.vt.edu/){:target="_blank"}) <br/>
+VA 24060 <br/>
 
-Email: thomas.girke@ucr.edu <br/>
-URL: http://girke.bioinformatics.ucr.edu <br/>
-Phone/Cell/Text: (951) 732-7072 <br/>
-Fax: 951-827-4437
+Email: akatz4@vt.edu <br/>
+URL: http://ideeaslab.github.io <br/>
