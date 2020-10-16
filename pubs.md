@@ -5,7 +5,7 @@ header : Publications
 group: navigation
 ---
 
-[  [Google Scholar Profile](http://scholar.google.com/citations?user=QjoDLv4AAAAJ&hl=en&oi=ao){:target="_blank"}  ] &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;
+[  [Google Scholar Profile](https://scholar.google.com/citations?user=6DDQjnwAAAAJ&hl=en){:target="_blank"}  ] &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;
 
 {: reversed="reversed"}
 
