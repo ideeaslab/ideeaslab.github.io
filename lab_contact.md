@@ -15,4 +15,4 @@ Virginia Tech, Blacksburg ([VT](http://www.vt.edu/){:target="_blank"}) <br/>
 VA 24060 <br/>
 
 Email: akatz4@vt.edu <br/>
-URL: http://ideeaslab.github.io <br/>
+URL: http://ideeaslab.com <br/>
