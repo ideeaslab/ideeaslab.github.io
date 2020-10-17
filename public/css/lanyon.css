@@ -441,15 +441,15 @@ a.pagination-item:hover {
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
 
-/* Thomas */
-.theme-base-thg .sidebar,
-.theme-base-thg .sidebar-toggle:active,
-.theme-base-thg #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #2F4F4F;
+/* IDEEAS */
+.theme-base-il .sidebar,
+.theme-base-il .sidebar-toggle:active,
+.theme-base-il #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #861F41;
 }
-.theme-base-thg .container a,
-.theme-base-thg .sidebar-toggle,
-.theme-base-thg .related-posts li a:hover {
+.theme-base-il .container a,
+.theme-base-il .sidebar-toggle,
+.theme-base-il .related-posts li a:hover {
   color: #A9A9A9;
 }
 
