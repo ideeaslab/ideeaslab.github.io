@@ -16,11 +16,11 @@ Before starting my doctoral studies, he taught physics (AP Physics I, AP Physics
 
 <br/>
 
-## Biosketch in NSF/NIH Formats
+<!--- ## Biosketch in NSF/NIH Formats
 
 * 
-<br/>
-
+<br/> 
+-->
 ## Publications
 
 #* see [Publication List]({{site.baseurl}}/pubs/){:target="_blank"}
