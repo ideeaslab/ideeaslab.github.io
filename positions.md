@@ -11,15 +11,15 @@ group: navigation
 ### Doctoral positions in engineering education and data science
 
 
-MINIMUM REQUIREMENTS: Under construction
+MINIMUM REQUIREMENTS: Curiosity and willingness to improve!
 
 OTHER HANDS-ON EXPERIENCE: (i) Data analysis programming environments for
 reproducible research. (ii) R statistical software experience. (ii)
 Familiarity with modeling and novel data analysis techniques.
 
 APPLICATION: To apply, please email your CV, statement of
-research interests and names of at least three references to Thomas Girke
-(thomas.girke@ucr.edu).
+research interests and names of at least three references to Dr. Katz
+(akatz4@vt.edu).
 
 ### Additional information
 
@@ -34,14 +34,14 @@ law.
 ### Undergraduate research positions
 
 Several postions are available for undergraduate students who are interested in
-participating in challenging genome data science projects in various research
-areas in biology and drug discovery. The required skills are experience with
-data analysis programming languages such as R, Python and C++. Experience with
-open-source databases (MySQL/PostgreSQL) and web programming is also a plus.
-The minimum time commitment is 15-20h per week for a period of at least 18
+participating in challenging education data science projects in various research
+areas in engineering education. The required skills are experience with
+data analysis programming languages such as R and Python. Experience with
+statistical modeling, open-source databases, and web programming is also a plus.
+The minimum time commitment is 5-10h per week for a period of at least 4
 months. Full-time employment during the summer break is possible. To apply for
 these positions, please email your CV with a detailed outline of your
-computational skills to thomas.girke@ucr.edu.  
+computational skills to akatz4@vt.edu.  
 
 <!-- 
 
