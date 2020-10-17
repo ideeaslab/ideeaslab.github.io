@@ -6,18 +6,18 @@ group: navigation
 ---
 <br/>
 
-> I enjoy teaching classes and mentoring students and postdocs, and consider it
-to be one of the unique privileges of my profession. My greatest pleasure as a
-teacher comes during those moments when students transition from simply
-listening and reading the material to actually understanding it, and thereby
-advancing to independently solving problems relevant for their future research
-career. 
+> I enjoy teaching classes and mentoring undergraduate and graduate students. I 
+consider it to be one of the unique privileges of my profession. I think we all have room
+for improvement in our lives, and I think teachers and mentors have a unique role
+to play in helping someone navigate that journey of improvement. 
 
 ## Courses
 
-### [Quantitative Research Methods in Engineering Education](http://girke.bioinformatics.ucr.edu/GEN242)
+### ENGE 5714 Quantitative Data Analysis for Research in Engineering Education
 
-[[Syllabus Spring-2017](http://girke.bioinformatics.ucr.edu/GEN242/mydoc_syllabus.html)]
+_Links coming soon_
+
+<!--- [[Syllabus Spring-2017](http://girke.bioinformatics.ucr.edu/GEN242/mydoc_syllabus.html)]
 
 
 
@@ -25,6 +25,5 @@ career.
 
 ## Manuals
 
-* [Bioinformatics manuals](http://tgirke.github.io/manuals/){:target="_blank"}
 
 
