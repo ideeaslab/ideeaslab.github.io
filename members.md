@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Members
-header: Members
+title: Lab Members
+header: Lab Members
 group: navigation
 ---
 <br/>
