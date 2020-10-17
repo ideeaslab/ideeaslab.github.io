@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dr. Katz
-header: Dr. Katz
+title: Dr. Katz Bio
+header: Dr. Katz Short Bio
 group: navigation
 ---
 <br/>
