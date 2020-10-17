@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Manuals
-header: Manuals
+title: Materials
+header: Materials
 group: navigation
 ---
 
