@@ -17,7 +17,7 @@ to play in helping someone navigate that journey of improvement.
 
 _Links coming soon_
 
-<!--- [[Syllabus Spring-2017](http://girke.bioinformatics.ucr.edu/GEN242/mydoc_syllabus.html)]
+<!--- [[Syllabus Spring-2017](http://girke.bioinformatics.ucr.edu/GEN242/mydoc_syllabus.html)] -->
 
 
 
