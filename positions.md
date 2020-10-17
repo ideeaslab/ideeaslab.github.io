@@ -43,7 +43,7 @@ months. Full-time employment during the summer break is possible. To apply for
 these positions, please email your CV with a detailed outline of your
 computational skills to akatz4@vt.edu.  
 
-<!-- 
+<!--- 
 
 
 
