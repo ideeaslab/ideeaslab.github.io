@@ -14,7 +14,9 @@ self-realization.
 
 ## Courses
 
-### ENGE 5714 Quantitative Data Analysis for Research in Engineering Education
+### Spring 2020 ENGE 5714 Quantitative Data Analysis for Research in Engineering Education
+
+### Spring 2021 ENGE 5714 Quantitative Data Analysis for Research in Engineering Education
 
 _Links coming soon_
 
