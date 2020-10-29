@@ -6,7 +6,13 @@ group: navigation
 ---
 <br/>
 
-## Degrees  
+### Degrees  
+
+PhD in Engineering Education, Purdue University
+MEng in Environmental Engineering, Texas A&M University
+BS in Chemical Engineering, Tulane University
+
+### Short Narrative Bio
 
 Dr. Katz is an assistant professor in the Department of Engineering Education at Virginia Tech. He leads the Improving Decisions in Engineering Education Agents and Systems (IDEEAS) Lab. In order to make this slightly less bizarre, I am going to stop the third person narrative, be realistic, and switch to first person.
 
@@ -23,7 +29,7 @@ I probably should have known it would be a winding road when I started my underg
 * 
 <br/> 
 -->
-## Publications
+#### Publications
 
-#* see [Publication List]({{site.baseurl}}/pubs/){:target="_blank"}
+For some of the lab's publications, see [Publication List]({{site.baseurl}}/pubs/){:target="_blank"}
 
