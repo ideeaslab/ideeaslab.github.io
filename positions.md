@@ -11,11 +11,15 @@ group: navigation
 ### Doctoral positions in engineering education and data science
 
 
-MINIMUM REQUIREMENTS: Curiosity and willingness to improve!
+MINIMUM REQUIREMENTS: Curiosity and openness to growth!
 
-OTHER HANDS-ON EXPERIENCE: (i) Data analysis programming environments for
-reproducible research. (ii) R statistical software experience. (ii)
-Familiarity with modeling and novel data analysis techniques.
+
+Helpful (but certainly not necessary) Experience: 
++ Data analysis programming environments for reproducible research. 
++ Programming experience in R statistical software, Python, Julia, or comparable languages. 
++ Familiarity with modeling and novel data analysis techniques.
++ Experience with machine learning and natural language processing models
+
 
 APPLICATION: To apply, please email your CV, statement of
 research interests and names of at least three references to Dr. Katz
