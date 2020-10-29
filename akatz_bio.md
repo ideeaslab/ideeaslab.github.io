@@ -9,7 +9,9 @@ group: navigation
 ### Degrees  
 
 PhD in Engineering Education, Purdue University
+
 MEng in Environmental Engineering, Texas A&M University
+
 BS in Chemical Engineering, Tulane University
 
 ### Short Narrative Bio
