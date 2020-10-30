@@ -7,23 +7,25 @@ group: navigation
 <br/>
 
 ## Open Positions
+----
 
 ### Doctoral positions in engineering education and data science
 
 
 MINIMUM REQUIREMENTS: Curiosity and openness to growth!
 
+</br>
 
-Helpful (but certainly not necessary) Experience: 
-+ Data analysis programming environments for reproducible research. 
-+ Programming experience in R statistical software, Python, Julia, or comparable languages. 
-+ Familiarity with modeling and novel data analysis techniques.
-+ Experience with machine learning and natural language processing models
+Helpful (but not necessary) experience: 
++ Data analysis programming environments for reproducible research.
++ Programming in R, Python, Julia, or comparable languages.
++ Familiarity with statistical modeling and novel data analysis techniques.
++ Experience with machine learning and natural language processing models.
 
 
 APPLICATION: To apply, please email your CV, statement of
 research interests and names of at least three references to Dr. Katz
-(akatz4@vt.edu).
+(akatz4@vt.edu)...or just email Dr. Katz a message telling him a little about yourself.
 
 
 ### Undergraduate research positions
@@ -40,6 +42,7 @@ computational skills to akatz4@vt.edu.
 
 
 
+----
 ### Additional information
 
 Virginia Tech is an Equal Opportunity/Affirmative Action
