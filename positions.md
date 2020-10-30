@@ -14,7 +14,7 @@ group: navigation
 
 MINIMUM REQUIREMENTS: Curiosity and openness to growth!
 
-</br>
+<br/>
 
 Helpful (but not necessary) experience: 
 + Data analysis programming environments for reproducible research.
