@@ -101,7 +101,7 @@ group: navigation
 
 <br/>
 
-### Name: Rachel Inamn
+### Name: Rachel Inman
 <u>Background</u>: Rachel is currently pursuing a bachelor's degree in public and urban affairs with a minor in landscape architecture. She is in her first year of the accelerated master's program in urban and regional planning at Virginia Tech. She hopes to work with the federal government as a community planner or transportation analyst with a focus on sustainability and accessibility.
 <br/>
 <u>Research interests</u>: Sustainability, smart cities, transportation efficiency, data analytics
